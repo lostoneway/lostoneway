@@ -1,6 +1,8 @@
 <h1> So what am I doing here? </h1>
 
-![cats on keyboards](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+<p align="center">
+<img src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif" alt="animated" />
+</p>
 
 
 - 👋 Hi, I’m @lostoneway
