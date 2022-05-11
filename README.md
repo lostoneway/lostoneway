@@ -1,5 +1,8 @@
 <h1> So what am I doing here? </h1>
 
+![cats on keyboards](https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif)
+
+
 - 👋 Hi, I’m @lostoneway
 - 👀 I’m interested in tech, fantasy football and the beach. 
 - 🌱 I'm currently learning HTML, CSS and JavaScript with some amazing tools in The Odin Project, Colt Steele's Web Developer Bootcamp & 100Devs. 
