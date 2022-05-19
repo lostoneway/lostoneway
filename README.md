@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mandy</h1>
 <h3 align="center">Air Force Vet to Software Engineer 👩🏾‍💻 with a background in telecommunications.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ule4vhcY1xEKQ/giphy.gif">
+<hr>
 
 - 🌱 I’m currently learning **JavaScript, NodeJS and React.**
 
@@ -13,6 +13,7 @@
 - ⚡ Fun fact: **When I'm not coding, I'm beachin'** 🏖️
 
 <p align="left">Talk about getting out of my comfort zone. From the military to working full-time in telecommunications, I found myself learning HTML and CSS to build a webpage for my Fantasy Football league. Learning to code on my own has been a challenge but so exciting! I'm hooked. </p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
