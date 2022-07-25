@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS and React.**
 
+- :construction_worker: I’m currently working on [Netdesigner Woes](https://github.com/lostoneway/netdesigner-woes). 
+
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
 - 📝 I regularly write about my coding journey on [https://dev.to/lostoneway](https://dev.to/lostoneway)
