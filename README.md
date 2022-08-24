@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS and React.**
 
-- :construction_worker: I’m currently working on [Netdesigner Woes](https://github.com/lostoneway/netdesigner-woes). 
+- :construction_worker: I’m currently working on Colt Steele's JavaScript Algorithms and Data Structures Masterclass.
 
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
