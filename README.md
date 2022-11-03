@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS and SQL.**
 
-- :construction_worker: I’m currently working on Colt Steele's JavaScript Algorithms and Data Structures Masterclass.
+- :construction_worker: I’m currently working on learning **Data Structures and Algorithms.**
 
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
