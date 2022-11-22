@@ -4,9 +4,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **JavaScript, NodeJS and SQL.**
+- 🌱 I’m currently learning **C#/.NET**
 
-- :construction_worker: I’m currently working on learning **Data Structures and Algorithms.**
+- :construction_worker: I’m currently working on **C# Player's Guide 5TH Edition.**
 
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
