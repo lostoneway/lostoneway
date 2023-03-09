@@ -4,7 +4,7 @@
 
 <hr>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **React**
 
 - :construction_worker: I’m currently working as a **New Dev!**
 
