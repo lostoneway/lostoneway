@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **AWS**
 
-- :construction_worker: I’m currently working as a **Devekoper!**
+- :construction_worker: I’m currently working as a **Developer!**
 
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
