@@ -4,9 +4,9 @@
 
 <hr>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **AWS**
 
-- :construction_worker: I’m currently working as a **New Dev!**
+- :construction_worker: I’m currently working as a **Devekoper!**
 
 - 👨‍💻 All of my projects are available at [https://mandybishop.netlify.app/](https://mandybishop.netlify.app/)
 
